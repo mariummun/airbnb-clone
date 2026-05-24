@@ -97,7 +97,7 @@
  .item{
     margin-top : 10px;
  }
- 
+
  .title{
     font-size : 12px;
     color : #222222;
@@ -120,6 +120,77 @@
     justify-content: center;
     align-items: center;
     margin-left : 15px;
+}
+
+.main-part{
+    margin-left : 150px;
+    margin-right : 150px;
+    background-color: rgb(221, 176, 184);
+}
+
+.first-section{
+    height : 256px;
+    margin-top : 53px;
+}
+
+.main-titles{
+    font-size : 20px;
+    color : #222222;
+    font-weight : 700;
+}
+
+.title-icon{
+    display : flex;
+}
+
+.right-icon{
+    height : 28px;
+    width : 28px;
+    border-radius : 50%;
+    background-color: rgb(230, 225, 225);
+    display : flex;
+    justify-content: center;
+    align-items: center;
+    margin-left : 4px;
+}
+
+.first-picture-section{
+    height : 216px;
+    width : 184px;
+    background-color: #c83258;
+    /* background-image: url("hotel_room1.jpg");
+    background-image: url("hotel_room2.jpg");
+    background-image: url("hotel_room3.jpg");
+    background-image: url("hotel_room4.jpg");
+    background-image: url("hotel_room5.jpg");
+    background-image: url("hotel_room6.jpg");
+    background-image: url("hotel_room7.jpg"); */
+}
+
+.first-pic{
+    height : 170px;
+    width : 184px;
+    background-size: cover;
+    border-radius : 15px;
+}
+
+.first-picture-write{
+    display : flex;
+    border-top : 10px;
+}
+
+.first-picture-write p{
+    height : 25px;
+    width : 110px;
+    background-color: rgb(0, 0, 0, 0.7);
+    color : white;
+    border-radius : 10px;
+}
+
+.love-icon{
+    height : 28px;
+    width : 28px;
+    color : white;
 }
 
 
