@@ -81,6 +81,7 @@
     display : flex;
     text-align : center;
     justify-content: space-evenly;
+    border-radius : 50px;
 }
 
 .nav-bottom p{
