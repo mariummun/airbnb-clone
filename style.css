@@ -72,6 +72,7 @@
     border-radius : 50px;
     position : relative;
     margin : 10px 410px;
+    box-shadow: 0px 4px 10px rgba(0,0,0,0.2);
 }
 
 .nav-bottom{
@@ -126,7 +127,7 @@
 .main-part{
     margin-left : 150px;
     margin-right : 150px;
-    background-color: rgb(221, 176, 184);
+    /* background-color: rgb(221, 176, 184); */
 }
 
 .first-section{
@@ -203,6 +204,10 @@
 .tags{
     margin-top : 5px;
     margin-left : 5px;
+}
+
+.tags a{
+    font-size : 14px;
 }
 
 .p-tags{
